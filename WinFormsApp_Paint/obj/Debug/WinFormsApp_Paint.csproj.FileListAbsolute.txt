@@ -1,0 +1,10 @@
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe.config
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.pdb
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Form1.resources
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Properties.Resources.resources
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.GenerateResource.cache
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.exe
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.pdb
